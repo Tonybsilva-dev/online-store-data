@@ -1,8 +1,9 @@
 <h1 align="center">
-    <img alt="logo" title="#logo" src="https://res.cloudinary.com/practicaldev/image/fetch/s--hJbzRXPb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/8rqiyfzpi0g9mdmzdl4y.png" width="400px" />
+    <img alt="logo" title="#logo" src="https://chafikgharbi.com/static/10267c40674dfadc3067993953161522/5a190/preview.png" width="400px" />
 </h1>
 
 <h1 align="center"> Online Store Data </h1>
+<h3 align="center">🕑 Em Desenvolvimento 🕑</h3>
 
 
 <p align="center">
@@ -19,16 +20,25 @@
   <a href="https://twitter.com/tonybsilvaaa">
     <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Ftgmarinho%2Fnlw1">
   </a>
+  
+  O projeto online-store-data foi pensado para ser simples, performático, focado, acessível e gratuito!
+  
+  > Trata-se de um controle de contas de clientes facilitado, onde o objetivo é exclusivamente tratar os valores dos clientes.
 
-## Tools:
-<ul>
-  <li>Nextjs</li>
-  <li>Typescript</li>
-  <li>Tailwind Css</li>
-  <li>MongoDB Atlas</li>
-  <li>NextAuth</li>
-  <li>Auth0</li>
-</ul>
+  1. Seu <strong> Design </strong> será feito com Tailwind Css pela produtividade.
+  2. Seu <strong> Projeto </strong> está sendo feito em NextJs pela perfomance, recursos únicos, deploy, e analytics
+  3. Seu <strong> Entendimento </strong> é facilitado com o uso das tipagens do Typescript, melhorando o entendimento para projetos ramificados.
+  4. Seu <strong> Banco de dados </strong> é NoSQL, trata-se de uma coleção de documentos, performático, e hospedado em Clusters na Nuvem.
+  5. Seu <strong> Método de Autenticação </strong> é direto, simples, sem burocracia.
+  6. Seu <strong> Login </strong> dispõe de dois métodos, o Auth0 e o login pelo Google.
+  
+  > Em Desenvolvimento
+
+## Auth-types
+
+<h1 align="center">
+  <img src="https://i.imgur.com/1ZoXzTa.png" alt="example" />
+  </h1>
 
 ## Features
 
