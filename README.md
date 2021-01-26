@@ -27,7 +27,7 @@
 
   1. Seu <strong> Design </strong> será feito com Tailwind Css pela produtividade.
   2. Seu <strong> Projeto </strong> está sendo feito em NextJs pela perfomance, recursos únicos, deploy, e analytics
-  3. Seu <strong> Entendimento </strong> é facilitado com o uso das tipagens do Typescript, melhorando o entendimento para projetos ramificados.
+  3. Seu <strong> Código </strong> é facilitado com o uso das tipagens do Typescript, melhorando o entendimento para projetos ramificados.
   4. Seu <strong> Banco de dados </strong> é NoSQL, trata-se de uma coleção de documentos, performático, e hospedado em Clusters na Nuvem.
   5. Seu <strong> Método de Autenticação </strong> é direto, simples, sem burocracia.
   6. Seu <strong> Login </strong> dispõe de dois métodos, o Auth0 e o login pelo Google.
