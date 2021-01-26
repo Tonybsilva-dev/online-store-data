@@ -1,4 +1,3 @@
-import { NextPage } from 'next'
 import Link from 'next/link'
 
 const links = [
@@ -6,7 +5,7 @@ const links = [
   { href: 'https://nextjs.org/docs', label: 'Docs' },
 ]
 
-const Nav: NextPage = () => {
+export default function Nav() {
   return (
     <nav>
       <ul className="flex items-center justify-between p-8">
@@ -30,5 +29,3 @@ const Nav: NextPage = () => {
     </nav>
   )
 }
-
-export default Nav;
